@@ -12,4 +12,5 @@
 |S2|Try changing the vocabulary size|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S2%5D_Try_changing_the_vocabulary_size.ipynb)|
 |05|워드 임베딩|Lecture|None|
 |06|임베딩 내 편향성 알아보기|Lecture|None|
-|S3|Measure WEAT score|Project|GitHub|
+|S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|
+
