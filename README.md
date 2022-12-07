@@ -13,4 +13,7 @@
 |05|워드 임베딩|Lecture|None|
 |06|임베딩 내 편향성 알아보기|Lecture|None|
 |S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|
+|07|Seq2seq와 Attention|Lecture|None|
+|08|Seq2seq으로 번역기 만들기|Lecture|None|
+|S4|Korean-English_translator|Project|In progress|
 
