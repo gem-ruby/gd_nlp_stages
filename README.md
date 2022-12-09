@@ -2,18 +2,22 @@
 
 <hr>
 
-|#|Going Deeper|Node|Link|
-|---|-------|----|-------|
-|01|텍스트 데이터 다루기|Lecture|None|
-|02|멋진 단어사전 만들기|Lecture|None|
-|S1|SentencePiece NSMC|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S1%5D_Project_SentencePiece_NSMC.ipynb)|
-|03|텍스트의 분포로 벡터화 하기|Lecture|None|
-|04|뉴스 카테고리 다중분류|Lecture|None|
-|S2|Try changing the vocabulary size|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S2%5D_Try_changing_the_vocabulary_size.ipynb)|
-|05|워드 임베딩|Lecture|None|
-|06|임베딩 내 편향성 알아보기|Lecture|None|
-|S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|
-|07|Seq2seq와 Attention|Lecture|None|
-|08|Seq2seq으로 번역기 만들기|Lecture|None|
-|S4|Korean-English_translator|Project|In progress|
+|#|Going Deeper|Node|Link|Rubric|
+|:-:|-------|:--:|:-----:|:----:|
+|01|텍스트 데이터 다루기|Lecture|None|None|
+|02|멋진 단어사전 만들기|Lecture|None|None|
+|S1|SentencePiece NSMC|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S1%5D_Project_SentencePiece_NSMC.ipynb)|⭐⭐⭐|
+|03|텍스트의 분포로 벡터화 하기|Lecture|None|None|
+|04|뉴스 카테고리 다중분류|Lecture|None|None|
+|S2|Try changing the vocabulary size|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S2%5D_Try_changing_the_vocabulary_size.ipynb)|⭐⭐⭐|
+|05|워드 임베딩|Lecture|None|None|
+|06|임베딩 내 편향성 알아보기|Lecture|None|None|
+|S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|⭐⭐⭐|
+|07|Seq2seq와 Attention|Lecture|None|None|
+|08|Seq2seq으로 번역기 만들기|Lecture|None|None|
+|S4|Korean-English_translator|Project|In progress||
+|09|Transformer가 나오기까지|Lecture|None|None|
+|10|Transformer로 번역기 만들기|Lecture|None|None|
+|S5|Translator_with_Transformer|Project|In progress||
+
 
