@@ -19,5 +19,7 @@
 |09|Transformer가 나오기까지|Lecture|None|None|
 |10|Transformer로 번역기 만들기|Lecture|None|None|
 |S5|Translator_with_Transformer|Project|In progress||
-
+|11|기계 번역이 걸어온 길|Lecture|None|None|
+|12|번역가는 대화에도 능하다|Lecture|None|None|
+|S6|Undefined|Project|||
 
