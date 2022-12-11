@@ -22,4 +22,3 @@
 |11|기계 번역이 걸어온 길|Lecture|None|None|
 |12|번역가는 대화에도 능하다|Lecture|None|None|
 |S6|Undefined|Project|||
-
