@@ -15,7 +15,7 @@
 |S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|⭐⭐⭐|
 |07|Seq2seq와 Attention|Lecture|None|None|
 |08|Seq2seq으로 번역기 만들기|Lecture|None|None|
-|S4|Korean-English_translator|Project|In progress||
+|S4|Korean-English_translator|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S4%5D_Korean-English_translator.ipynb)||
 |09|Transformer가 나오기까지|Lecture|None|None|
 |10|Transformer로 번역기 만들기|Lecture|None|None|
 |S5|Translator_with_Transformer|Project|In progress||
