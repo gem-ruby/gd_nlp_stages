@@ -21,4 +21,4 @@
 |S5|Translator with Transformer|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S5%5D_Translator_with_Transformer.ipynb)||
 |11|기계 번역이 걸어온 길|Lecture|None|None|
 |12|번역가는 대화에도 능하다|Lecture|None|None|
-|S6|Undefined|Project|||
+|S6|Awesome ChatBot|Project|||
