@@ -15,10 +15,10 @@
 |S3|Measure WEAT score|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S3%5D_Measure_WEAT_score.ipynb)|⭐⭐⭐|
 |07|Seq2seq와 Attention|Lecture|None|None|
 |08|Seq2seq으로 번역기 만들기|Lecture|None|None|
-|S4|Korean-English translator|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S4%5D_Korean-English_translator.ipynb)||
+|S4|Korean-English translator|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S4%5D_Korean-English_translator.ipynb)|⭐⭐⭐|
 |09|Transformer가 나오기까지|Lecture|None|None|
 |10|Transformer로 번역기 만들기|Lecture|None|None|
 |S5|Translator with Transformer|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S5%5D_Translator_with_Transformer.ipynb)||
 |11|기계 번역이 걸어온 길|Lecture|None|None|
 |12|번역가는 대화에도 능하다|Lecture|None|None|
-|S6|Awesome ChatBot|Project|||
+|S6|Awesome ChatBot|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S6%5D_Awesome_ChatBot.ipynb)||
