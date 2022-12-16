@@ -22,3 +22,6 @@
 |11|기계 번역이 걸어온 길|Lecture|None|None|
 |12|번역가는 대화에도 능하다|Lecture|None|None|
 |S6|Awesome ChatBot|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S6%5D_Awesome_ChatBot.ipynb)||
+|13|modern NLP의 흐름에 올라타보자|Lecture|None|None|
+|14|BERT pretrained model 제작|Lecture|None|None|
+|S7|mini BERT|Project|||
