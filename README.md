@@ -18,10 +18,10 @@
 |S4|Korean-English translator|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S4%5D_Korean-English_translator.ipynb)|⭐⭐⭐|
 |09|Transformer가 나오기까지|Lecture|None|None|
 |10|Transformer로 번역기 만들기|Lecture|None|None|
-|S5|Translator with Transformer|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S5%5D_Translator_with_Transformer.ipynb)||
+|S5|Translator with Transformer|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S5%5D_Translator_with_Transformer.ipynb)|⭐⭐⭐|
 |11|기계 번역이 걸어온 길|Lecture|None|None|
 |12|번역가는 대화에도 능하다|Lecture|None|None|
-|S6|Awesome ChatBot|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S6%5D_Awesome_ChatBot.ipynb)||
+|S6|Awesome ChatBot|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S6%5D_Awesome_ChatBot.ipynb)|⭐⭐⭐|
 |13|modern NLP의 흐름에 올라타보자|Lecture|None|None|
 |14|BERT pretrained model 제작|Lecture|None|None|
 |S7|mini BERT|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S7%5D_mini_BERT.ipynb)||
