@@ -27,5 +27,5 @@
 |S7|mini BERT|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S7%5D_mini_BERT.ipynb)|⭐⭐⭐|
 |15|modern NLP의 흐름에 올라타보자|Lecture|None|None|
 |16|HuggingFace 커스텀 프로젝트 만들기|Lecture|None|None|
-|S8|HuggingFace Custom Project|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S8%5D_HuggingFace_Custom_Project.ipynb)||
+|S8|HuggingFace Custom Project|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S8%5D_HuggingFace_Custom_Project.ipynb)|⭐⭐⭐|
 
