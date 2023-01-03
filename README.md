@@ -29,3 +29,5 @@
 |16|HuggingFace 커스텀 프로젝트 만들기|Lecture|None|None|
 |S8|HuggingFace Custom Project|Project|[GitHub🔗](https://github.com/gem-ruby/gd_nlp_stages/blob/main/%5BGD_NLP_S8%5D_HuggingFace_Custom_Project.ipynb)|⭐⭐⭐|
 
+
+- Rubric All complete. (2023-01-03)
